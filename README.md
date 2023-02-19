@@ -5,3 +5,6 @@ Here the rank is based off the metacritic score
 We are using linear regression to get the best fit line. (SVR)
 
 Unfortunately because this is a linear algebra project we have used PCA.
+
+
+Rename the noteboob's extention to ipynb
